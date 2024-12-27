@@ -48,3 +48,12 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+![frontpage](https://github.com/user-attachments/assets/767ec87f-7eeb-4f9c-8df2-c321419e952e)
+![cartpage](https://github.com/user-attachments/assets/79108211-c22a-4078-9c33-a1d6aa716feb)
+![order page](https://github.com/user-attachments/assets/fe48bf8d-01e0-4e8c-a634-c1231051bb07)
+![order confirmation](https://github.com/user-attachments/assets/0e27553d-9d8d-4000-ba08-08ceb2eaa032)
+![frontpage2](https://github.com/user-attachments/assets/e89fa200-6bf8-4fab-85df-85da7640c4f9)
+
